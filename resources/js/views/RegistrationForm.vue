@@ -315,6 +315,7 @@ const registration = async () => {
     flex-direction: column;
     gap: 15px;
     margin-bottom: 30px;
+    width: 344px;
 
 }
 

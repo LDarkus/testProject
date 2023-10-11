@@ -110,6 +110,7 @@ const login = () => {
     display: flex;
     flex-direction: column;
     gap: 15px;
+    width: 344px;
 
 }
 
